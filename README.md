@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mufeeza362
+- 👋 Hi, I’m Mufeeza
 - 👀 I’m interested in learning New technologies
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Luna..
